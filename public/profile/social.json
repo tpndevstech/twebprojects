@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/tapan-anand-a1089019b/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/tpndevstech"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:tp5nand@gmail.com"
+        }
+    ]
+}
